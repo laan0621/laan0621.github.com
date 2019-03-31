@@ -7,5 +7,3 @@ categories: Dummy
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
-
-ÇÑ±Û
