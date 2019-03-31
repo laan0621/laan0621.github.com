@@ -7,3 +7,4 @@ categories: Dummy
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
+한글 지원 확인
